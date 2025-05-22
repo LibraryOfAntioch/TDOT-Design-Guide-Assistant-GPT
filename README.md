@@ -9,6 +9,6 @@ Don't be a dummy, verify for yourselves what it says. You know, like how you're 
 I've uploaded all the items needed to recreate this GPT anywhere. Feel free to use these instructions and knowledge base files for your own projects and improvements!
 
 It is my hope that by sharing this GPT, which as already been useful to users, I can
-1. Increase useres and user trust by showing transperency behind the GPT
+1. Increase users and user trust by showing transperency behind the GPT
 2. Show the industry how simple GPTs can be incredibly useful
 3. Help the industry move towards this next industrial revolution
